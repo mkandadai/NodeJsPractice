@@ -1,0 +1,14 @@
+{
+  "name": "NodeJsVSApplication",
+  "version": "0.0.0",
+  "description": "NodeJsVSApplication",
+  "main": "app.js",
+  "author": {
+    "name": "mkandadai",
+    "email": ""
+  },
+  "dependencies": {
+    "underscore": "~1.8.3",
+    "express": "~4.13.4"
+  }
+}
